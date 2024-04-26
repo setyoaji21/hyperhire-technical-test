@@ -2,7 +2,7 @@
   background-color: #ffffff;
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  // justify-content: center;
   width: 100%;
   .div {
     background-color: #ffffff;
@@ -738,19 +738,19 @@
   }
   .overlap-group-wrapper {
     position: absolute;
-    width: 1855px;
+    // width: 1855px;
     height: 505px;
     top: 929px;
     left: 5px;
   }
   .overlap-group-2 {
     position: relative;
-    width: 1823px;
+    // width: 1823px;
     height: 505px;
   }
   .rectangle {
     position: absolute;
-    width: 1823px;
+    width: 100%;
     height: 505px;
     top: 0;
     left: 0;
